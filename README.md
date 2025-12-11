@@ -140,8 +140,8 @@ Top 3 doctors handle 40% of total appointments
 
 📌 Created By
 
-Surendra Singh Meena
-Data Analyst | SQL | Python | Power BI
+Surendra Singh Meena 
+Data Analyst | SQL | Python | Power BI 
 GitHub: your link here
 
 📜 License
