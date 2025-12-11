@@ -44,3 +44,39 @@ and overall healthcare operations using **MySQL queries**.
 
 ## 📁 Folder Structure
 
+Healthcare_SQL_Project/
+├── data/
+│ ├── patients.csv
+│ ├── doctors.csv
+│ ├── appointments.csv
+│ ├── diagnosis.csv
+│ ├── treatments.csv
+│ └── billing.csv
+│
+├── sql/
+│ ├── create_tables.sql
+│ ├── insert_data.sql
+│ └── analysis_queries.sql
+│
+└── README.md
+
+
+
+---
+
+## 🛠 Tech Stack
+
+- **MySQL 8+**
+- CSV Dataset (600+ rows)
+- SQL Analytics (Joins, CTEs, Window Functions, Subqueries)
+
+---
+
+## 🚀 How to Run This Project
+
+### 1️⃣ Create Database
+```sql
+CREATE DATABASE healthcare_db;
+USE healthcare_db;
+
+
