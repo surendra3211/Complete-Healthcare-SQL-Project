@@ -108,7 +108,7 @@ What is the patient readmission rate?
 
 Which doctors have the highest recovery success?
 
-📝 Key SQL Concepts Used
+#### 📝 Key SQL Concepts Used
 
 JOIN (Inner, Left, Right)
 
@@ -126,7 +126,7 @@ Aggregations
 
 Date Functions
 
-📈 Insights Generated
+#### 📈 Insights Generated
 
 Most diagnosis occur in General Medicine
 
@@ -138,15 +138,15 @@ Monthly revenue trends show seasonal peaks
 
 Top 3 doctors handle 40% of total appointments
 
-📌 Created By
+#### 📌 Created By
 
 Surendra Singh Meena 
 
 Data Analyst | SQL | Python | Power BI 
 
-GitHub: your link here
+GitHub: https://github.com/surendra3211/
 
-📜 License
+#### 📜 License
 
 This project is open-source for portfolio and learning purposes.
 
