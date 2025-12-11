@@ -1,1 +1,151 @@
-
+diagnosis_id,appointment_id,patient_id,diagnosis_code,diagnosis_description,severity
+1,1,1,I10,Hypertension,Mild
+2,2,2,G40,Epilepsy,Moderate
+3,3,3,M54,Lower Back Pain,Moderate
+4,4,4,J06,Common Cold,Mild
+5,5,5,L20,Eczema,Mild
+6,6,6,E11,Type 2 Diabetes,Severe
+7,7,7,K21,Acid Reflux,Mild
+8,8,8,C34,Lung Cancer,Severe
+9,9,9,H66,Otitis Media,Moderate
+10,10,10,N39,Urinary Infection,Moderate
+11,11,11,I20,Angina,Severe
+12,12,12,G43,Migraine,Moderate
+13,13,13,M51,Disc Disorder,Severe
+14,14,14,B34,Viral Infection,Mild
+15,15,15,E03,Hypothyroidism,Moderate
+16,16,16,F32,Depression,Moderate
+17,17,17,J45,Asthma,Moderate
+18,18,18,L30,Allergic Dermatitis,Mild
+19,19,19,N91,Menstrual Disorder,Mild
+20,20,20,I50,Heart Failure,Severe
+21,21,21,M17,Knee Osteoarthritis,Moderate
+22,22,22,E78,High Cholesterol,Mild
+23,23,23,K52,Gastritis,Mild
+24,24,24,N40,Prostate Enlargement,Moderate
+25,25,25,H61,Excess Ear Wax,Mild
+26,26,26,I25,Chronic Ischemic Heart Disease,Severe
+27,27,27,G35,Multiple Sclerosis,Severe
+28,28,28,M79,Musculoskeletal Pain,Mild
+29,29,29,N80,Endometriosis,Moderate
+30,30,30,E86,Dehydration,Mild
+31,31,31,J21,Bronchiolitis,Moderate
+32,32,32,I11,Hypertensive Heart Disease,Moderate
+33,33,33,F41,Anxiety Disorder,Mild
+34,34,34,C50,Breast Cancer,Severe
+35,35,35,H60,Swimmer's Ear,Mild
+36,36,36,K29,Acute Gastritis,Moderate
+37,37,37,M48,Spinal Stenosis,Severe
+38,38,38,J02,Strep Throat,Mild
+39,39,39,I21,Heart Attack,Severe
+40,40,40,N85,Endometrial Hyperplasia,Moderate
+41,41,41,E28,Hormonal Imbalance,Mild
+42,42,42,J18,Pneumonia,Severe
+43,43,43,E66,Obesity,Moderate
+44,44,44,G44,Tension Headache,Mild
+45,45,45,L40,Plaque Psoriasis,Moderate
+46,46,46,H69,Eustachian Tube Disorder,Mild
+47,47,47,N92,Irregular Periods,Mild
+48,48,48,M25,Joint Pain,Mild
+49,49,49,C81,Hodgkin Lymphoma,Severe
+50,50,50,I34,Mitral Valve Disorder,Moderate
+51,51,51,E55,Vitamin D Deficiency,Mild
+52,52,52,G45,Transient Ischemic Attack,Severe
+53,53,53,J05,Croup,Moderate
+54,54,54,M53,Neck Pain,Mild
+55,55,55,E23,Pituitary Disorder,Severe
+56,56,56,F43,Stress Disorder,Moderate
+57,57,57,C78,Secondary Tumor,Severe
+58,58,58,K50,Crohn's Disease,Severe
+59,59,59,I34,Cardiac Valve Issue,Moderate
+60,60,60,R53,Fatigue Syndrome,Mild
+61,61,61,I10,Hypertension,Mild
+62,62,62,G40,Epilepsy,Moderate
+63,63,63,M54,Back Pain,Mild
+64,64,64,J06,Common Cold,Mild
+65,65,65,L20,Eczema,Mild
+66,66,66,E11,Type 2 Diabetes,Severe
+67,67,67,K21,Acid Reflux,Mild
+68,68,68,C34,Lung Cancer,Severe
+69,69,69,H66,Otitis Media,Moderate
+70,70,70,N39,Urinary Infection,Moderate
+71,71,71,I20,Angina,Severe
+72,72,72,G43,Migraine,Moderate
+73,73,73,M51,Disc Disorder,Severe
+74,74,74,B34,Viral Infection,Mild
+75,75,75,E03,Hypothyroidism,Moderate
+76,76,76,F32,Depression,Moderate
+77,77,77,J45,Asthma,Moderate
+78,78,78,L30,Allergic Dermatitis,Mild
+79,79,79,N91,Menstrual Disorder,Mild
+80,80,80,I50,Heart Failure,Severe
+81,81,81,M17,Knee Osteoarthritis,Moderate
+82,82,82,E78,High Cholesterol,Mild
+83,83,83,K52,Gastritis,Mild
+84,84,84,N40,Prostate Enlargement,Moderate
+85,85,85,H61,Excess Ear Wax,Mild
+86,86,86,I25,Chronic Ischemic Heart Disease,Severe
+87,87,87,G35,Multiple Sclerosis,Severe
+88,88,88,M79,Musculoskeletal Pain,Mild
+89,89,89,N80,Endometriosis,Moderate
+90,90,90,E86,Dehydration,Mild
+91,91,91,J21,Bronchiolitis,Moderate
+92,92,92,I11,Hypertensive Heart Disease,Moderate
+93,93,93,F41,Anxiety Disorder,Mild
+94,94,94,C50,Breast Cancer,Severe
+95,95,95,H60,Swimmer's Ear,Mild
+96,96,96,K29,Acute Gastritis,Moderate
+97,97,97,M48,Spinal Stenosis,Severe
+98,98,98,J02,Strep Throat,Mild
+99,99,99,I21,Heart Attack,Severe
+100,100,100,N85,Endometrial Hyperplasia,Moderate
+101,101,101,E28,Hormonal Imbalance,Mild
+102,102,102,J18,Pneumonia,Severe
+103,103,103,E66,Obesity,Moderate
+104,104,104,G44,Tension Headache,Mild
+105,105,105,L40,Plaque Psoriasis,Moderate
+106,106,106,H69,Eustachian Tube Disorder,Mild
+107,107,107,N92,Irregular Periods,Mild
+108,108,108,M25,Joint Pain,Mild
+109,109,109,C81,Hodgkin Lymphoma,Severe
+110,110,110,I34,Mitral Valve Disorder,Moderate
+111,111,111,E55,Vitamin D Deficiency,Mild
+112,112,112,G45,Transient Ischemic Attack,Severe
+113,113,113,J05,Croup,Moderate
+114,114,114,M53,Neck Pain,Mild
+115,115,115,E23,Pituitary Disorder,Severe
+116,116,116,F43,Stress Disorder,Moderate
+117,117,117,C78,Secondary Tumor,Severe
+118,118,118,K50,Crohn's Disease,Severe
+119,119,119,I34,Cardiac Valve Issue,Moderate
+120,120,120,R53,Fatigue Syndrome,Mild
+121,121,1,L20,Eczema,Mild
+122,122,2,G43,Migraine,Moderate
+123,123,3,M54,Back Pain,Mild
+124,124,4,J06,Common Cold,Mild
+125,125,5,K21,Acid Reflux,Mild
+126,126,6,E11,Diabetes,Severe
+127,127,7,H66,Otitis Media,Moderate
+128,128,8,C34,Lung Cancer,Severe
+129,129,9,N39,UTI,Moderate
+130,130,10,M25,Joint Pain,Mild
+131,131,11,I10,Hypertension,Mild
+132,132,12,G40,Epilepsy,Moderate
+133,133,13,M51,Disc Disorder,Severe
+134,134,14,E03,Hypothyroidism,Moderate
+135,135,15,F32,Depression,Moderate
+136,136,16,J45,Asthma,Moderate
+137,137,17,L30,Allergic Dermatitis,Mild
+138,138,18,N91,Menstrual Disorder,Mild
+139,139,19,I50,Heart Failure,Severe
+140,140,20,E78,High Cholesterol,Mild
+141,141,21,M17,Knee Osteoarthritis,Moderate
+142,142,22,K52,Gastritis,Mild
+143,143,23,N40,Prostate Enlargement,Moderate
+144,144,24,H61,Excess Ear Wax,Mild
+145,145,25,I25,Chronic Heart Disease,Severe
+146,146,26,G35,Multiple Sclerosis,Severe
+147,147,27,M79,Musculoskeletal Pain,Mild
+148,148,28,N80,Endometriosis,Moderate
+149,149,29,E86,Dehydration,Mild
+150,150,30,R53,Fatigue Syndrome,Mild
