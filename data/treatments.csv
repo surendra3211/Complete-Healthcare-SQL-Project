@@ -1,0 +1,151 @@
+treatment_id,appointment_id,patient_id,treatment_type,medicine_prescribed,treatment_cost
+1,1,1,Medication,Amlodipine,500
+2,2,2,Medication,Carbamazepine,900
+3,3,3,Physiotherapy,Muscle Relaxants,1200
+4,4,4,Medication,Paracetamol,200
+5,5,5,Medication,Hydrocortisone Cream,350
+6,6,6,Medication,Metformin,800
+7,7,7,Medication,Antacids,300
+8,8,8,Chemotherapy,Cisplatin,15000
+9,9,9,Medication,Antibiotics,900
+10,10,10,Medication,Ciprofloxacin,700
+11,11,11,Medication,Nitroglycerin,1000
+12,12,12,Medication,Sumatriptan,600
+13,13,13,Surgery,Spinal Decompression,45000
+14,14,14,Medication,Paracetamol,200
+15,15,15,Medication,Thyroxine,400
+16,16,16,Medication,SSRIs,900
+17,17,17,Medication,Inhaler,700
+18,18,18,Medication,Antihistamines,300
+19,19,19,Medication,Iron Supplements,250
+20,20,20,Medication,Diuretics,1200
+21,21,21,Physiotherapy,Joint Exercises,1500
+22,22,22,Medication,Statins,800
+23,23,23,Medication,Antacids,300
+24,24,24,Surgery,Prostate Surgery,50000
+25,25,25,Medication,Ear Drops,200
+26,26,26,Medication,Beta Blockers,900
+27,27,27,Medication,Immunotherapy,16000
+28,28,28,Medication,Pain Relief Gel,250
+29,29,29,Medication,Hormonal Therapy,1200
+30,30,30,Medication,ORS,150
+31,31,31,Medication,Bronchodilators,600
+32,32,32,Medication,Amlodipine,500
+33,33,33,Medication,Anxiolytics,700
+34,34,34,Chemotherapy,Doxorubicin,18000
+35,35,35,Medication,Ear Drops,200
+36,36,36,Medication,PPI,450
+37,37,37,Surgery,Spinal Surgery,48000
+38,38,38,Medication,Antibiotics,500
+39,39,39,Surgery,Angioplasty,75000
+40,40,40,Medication,Progesterone Therapy,900
+41,41,41,Medication,Hormone Supplements,650
+42,42,42,Medication,Antibiotics,1500
+43,43,43,Medication,Diet Plan,300
+44,44,44,Medication,Painkillers,200
+45,45,45,Medication,Topical Cream,600
+46,46,46,Medication,Anti-inflammatory,500
+47,47,47,Medication,Hormone Therapy,900
+48,48,48,Physiotherapy,Joint Exercises,1500
+49,49,49,Chemotherapy,ABVD Protocol,20000
+50,50,50,Surgery,Valve Repair,90000
+51,51,51,Medication,Vitamin D,300
+52,52,52,Medication,Aspirin,700
+53,53,53,Medication,Nebulizer,600
+54,54,54,Medication,Pain Relief Gel,200
+55,55,55,Surgery,Pituitary Surgery,65000
+56,56,56,Medication,SSRIs,900
+57,57,57,Chemotherapy,Targeted Therapy,22000
+58,58,58,Medication,Immunosuppressants,1800
+59,59,59,Medication,Cardiac Support Drugs,1200
+60,60,60,Medication,Vitamins,150
+61,61,61,Medication,Amlodipine,500
+62,62,62,Medication,Carbamazepine,900
+63,63,63,Physiotherapy,Muscle Relaxants,1200
+64,64,64,Medication,Paracetamol,200
+65,65,65,Medication,Hydrocortisone Cream,350
+66,66,66,Medication,Metformin,800
+67,67,67,Medication,Antacids,300
+68,68,68,Chemotherapy,Cisplatin,15000
+69,69,69,Medication,Antibiotics,900
+70,70,70,Medication,Ciprofloxacin,700
+71,71,71,Medication,Nitroglycerin,1000
+72,72,72,Medication,Sumatriptan,600
+73,73,73,Surgery,Spinal Decompression,45000
+74,74,74,Medication,Paracetamol,200
+75,75,75,Medication,Thyroxine,400
+76,76,76,Medication,SSRIs,900
+77,77,77,Medication,Inhaler,700
+78,78,78,Medication,Antihistamines,300
+79,79,79,Medication,Iron Supplements,250
+80,80,80,Medication,Diuretics,1200
+81,81,81,Physiotherapy,Joint Exercises,1500
+82,82,82,Medication,Statins,800
+83,83,83,Medication,Antacids,300
+84,84,84,Surgery,Prostate Surgery,50000
+85,85,85,Medication,Ear Drops,200
+86,86,86,Medication,Beta Blockers,900
+87,87,87,Medication,Immunotherapy,16000
+88,88,88,Medication,Pain Relief Gel,250
+89,89,89,Medication,Hormonal Therapy,1200
+90,90,90,Medication,ORS,150
+91,91,91,Medication,Bronchodilators,600
+92,92,92,Medication,Amlodipine,500
+93,93,93,Medication,Anxiolytics,700
+94,94,94,Chemotherapy,Doxorubicin,18000
+95,95,95,Medication,Ear Drops,200
+96,96,96,Medication,PPI,450
+97,97,97,Surgery,Spinal Surgery,48000
+98,98,98,Medication,Antibiotics,500
+99,99,99,Surgery,Angioplasty,75000
+100,100,100,Medication,Progesterone Therapy,900
+101,101,101,Medication,Hormone Supplements,650
+102,102,102,Medication,Antibiotics,1500
+103,103,103,Medication,Diet Plan,300
+104,104,104,Medication,Painkillers,200
+105,105,105,Medication,Topical Cream,600
+106,106,106,Medication,Anti-inflammatory,500
+107,107,107,Medication,Hormone Therapy,900
+108,108,108,Physiotherapy,Joint Exercises,1500
+109,109,109,Chemotherapy,ABVD Protocol,20000
+110,110,110,Surgery,Valve Repair,90000
+111,111,111,Medication,Vitamin D,300
+112,112,112,Medication,Aspirin,700
+113,113,113,Medication,Nebulizer,600
+114,114,114,Medication,Pain Relief Gel,200
+115,115,115,Surgery,Pituitary Surgery,65000
+116,116,116,Medication,SSRIs,900
+117,117,117,Chemotherapy,Targeted Therapy,22000
+118,118,118,Medication,Immunosuppressants,1800
+119,119,119,Medication,Cardiac Support Drugs,1200
+120,120,120,Medication,Vitamins,150
+121,121,1,Medication,Hydrocortisone Cream,350
+122,122,2,Medication,Sumatriptan,600
+123,123,3,Physiotherapy,Muscle Relaxants,1200
+124,124,4,Medication,Paracetamol,200
+125,125,5,Medication,Antacids,300
+126,126,6,Medication,Metformin,800
+127,127,7,Medication,Antibiotics,900
+128,128,8,Chemotherapy,Cisplatin,15000
+129,129,9,Medication,Ciprofloxacin,700
+130,130,10,Medication,Pain Relief Gel,200
+131,131,11,Medication,Amlodipine,500
+132,132,12,Medication,Carbamazepine,900
+133,133,13,Surgery,Spinal Decompression,45000
+134,134,14,Medication,Thyroxine,400
+135,135,15,Medication,SSRIs,900
+136,136,16,Medication,Inhaler,700
+137,137,17,Medication,Antihistamines,300
+138,138,18,Medication,Iron Supplements,250
+139,139,19,Medication,Diuretics,1200
+140,140,20,Physiotherapy,Joint Exercises,1500
+141,141,21,Medication,Statins,800
+142,142,22,Medication,Antacids,300
+143,143,23,Surgery,Prostate Surgery,50000
+144,144,24,Medication,Ear Drops,200
+145,145,25,Medication,Beta Blockers,900
+146,146,26,Medication,Immunotherapy,16000
+147,147,27,Medication,Pain Relief Gel,250
+148,148,28,Medication,Hormonal Therapy,1200
+149,149,29,Medication,ORS,150
+150,150,30,Medication,Vitamins,150
