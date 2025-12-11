@@ -79,17 +79,17 @@ Healthcare_SQL_Project/
 CREATE DATABASE healthcare_db;
 USE healthcare_db;
 
-2️⃣ Run Table Creation Script
+### 2️⃣ Run Table Creation Script
 sql/create_tables.sql
 
-3️⃣ Import CSV Data
+### 3️⃣ Import CSV Data
 
 Use MySQL Workbench → Table → Import Wizard
 OR run:
 
 sql/insert_data.sql
 
-4️⃣ Run All Queries
+### 4️⃣ Run All Queries
 sql/analysis_queries.sql
 
 📊 Analytical Questions Answered
