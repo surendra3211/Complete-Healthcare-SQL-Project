@@ -1,0 +1,61 @@
+doctor_id,first_name,last_name,specialization,experience_years,city
+1,Arun,Khanna,Cardiology,18,Mumbai
+2,Sheetal,Menon,Neurology,12,Bangalore
+3,Rajesh,Patwardhan,Orthopedics,15,Pune
+4,Meera,Shah,Pediatrics,10,Ahmedabad
+5,Vinod,Rajput,Dermatology,9,Delhi
+6,Harita,Joshi,General Medicine,20,Nagpur
+7,Amit,Bhargava,Gastroenterology,14,Indore
+8,Neeraj,Kohli,Oncology,11,Mumbai
+9,Prerna,Chawla,ENT,8,Jaipur
+10,Karan,Singh,Urology,7,Delhi
+11,Leela,Krishnan,Cardiology,16,Chennai
+12,Deepak,Yadav,Neurology,13,Hyderabad
+13,Ananya,Pillai,Orthopedics,6,Kochi
+14,Sameer,Jain,General Medicine,22,Mumbai
+15,Ritika,Deshmukh,Endocrinology,10,Pune
+16,Farhan,Khan,Psychiatry,8,Lucknow
+17,Kavita,Suri,Pediatrics,12,Kolkata
+18,Raghav,Ghosh,Dermatology,11,Patna
+19,Shivani,Kamat,Gynecology,9,Goa
+20,Prakash,Shetty,Cardiology,21,Bangalore
+21,Nitin,Ahuja,Orthopedics,17,Delhi
+22,Monica,Bhagat,General Medicine,19,Surat
+23,Jasmeet,Kapoor,Gastroenterology,13,Jaipur
+24,Kishor,Bhide,Urology,8,Mumbai
+25,Savita,Verma,ENT,10,Nashik
+26,Arvind,Saxena,Cardiology,14,Indore
+27,Pooja,Ramani,Neurology,9,Ahmedabad
+28,Suresh,Naidu,Orthopedics,20,Hyderabad
+29,Neha,Desai,Gynecology,11,Pune
+30,Faizan,Ali,General Medicine,7,Kolkata
+31,Sneha,Patel,Pediatrics,6,Surat
+32,Vinay,Chauhan,Cardiology,23,Delhi
+33,Isha,Kohli,Psychiatry,5,Mumbai
+34,Dev,Prasad,Oncology,12,Chennai
+35,Komal,Jadhav,ENT,7,Pune
+36,Yogesh,Kadam,Gastroenterology,16,Nagpur
+37,Anil,Kapoor,Orthopedics,18,Delhi
+38,Smita,Rao,General Medicine,15,Bangalore
+39,Harshad,Shah,Cardiology,19,Ahmedabad
+40,Aparna,Reddy,Gynecology,10,Hyderabad
+41,Vikas,More,Endocrinology,11,Mumbai
+42,Nandini,Pai,Pediatrics,8,Kochi
+43,Sameer,Pawar,General Medicine,13,Pune
+44,Meghna,Sethi,Neurology,6,Jaipur
+45,Jignesh,Doshi,Dermatology,9,Surat
+46,Rahul,Tripathi,ENT,12,Lucknow
+47,Amrita,Patil,Gynecology,14,Goa
+48,Sachin,Kulkarni,Orthopedics,16,Nagpur
+49,Mansi,Sodhi,Oncology,7,Delhi
+50,Karthik,Nair,Cardiology,10,Chennai
+51,Lavina,Arora,General Medicine,9,Mumbai
+52,Rohan,Shekhawat,Neurology,15,Bangalore
+53,Pratibha,Varma,Pediatrics,13,Pune
+54,Ajay,Deshmukh,Orthopedics,7,Indore
+55,Manish,Gupta,Endocrinology,17,Delhi
+56,Rekha,Sharma,Psychiatry,10,Jaipur
+57,Kunal,Shah,Oncology,11,Mumbai
+58,Srishti,Tiwari,Gastroenterology,6,Kolkhi
+59,Aditya,Vora,Gynecology,8,Ahmedabad
+60,Mohit,Chaturvedi,General Medicine,20,Delhi
