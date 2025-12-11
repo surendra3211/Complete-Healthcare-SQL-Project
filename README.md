@@ -75,7 +75,7 @@ Healthcare_SQL_Project/
 ## 🚀 How to Run This Project
 
 ### 1️⃣ Create Database
-```sql
+sql
 CREATE DATABASE healthcare_db;
 USE healthcare_db;
 
