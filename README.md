@@ -42,10 +42,10 @@ and overall healthcare operations using **MySQL queries**.
 
 ---
 
-## 📁 Folder Structure
-
-Healthcare_SQL_Project/
-├── data/
+## 📁 Folder Structure\
+\
+Healthcare_SQL_Project/ \
+├── data/ \
 │ ├── patients.csv \
 │ ├── doctors.csv \
 │ ├── appointments.csv\
