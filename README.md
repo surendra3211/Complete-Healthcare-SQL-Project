@@ -46,10 +46,10 @@ and overall healthcare operations using **MySQL queries**.
 
 Healthcare_SQL_Project/
 ├── data/
-│ ├── patients.csv
-│ ├── doctors.csv
-│ ├── appointments.csv
-│ ├── diagnosis.csv
+│ ├── patients.csv \
+│ ├── doctors.csv \
+│ ├── appointments.csv\
+│ ├── diagnosis.csv\
 │ ├── treatments.csv
 │ └── billing.csv
 │
