@@ -50,15 +50,15 @@ Healthcare_SQL_Project/
 │ ├── doctors.csv \
 │ ├── appointments.csv\
 │ ├── diagnosis.csv\
-│ ├── treatments.csv
-│ └── billing.csv
-│
-├── sql/
-│ ├── create_tables.sql
-│ ├── insert_data.sql
-│ └── analysis_queries.sql
-│
-└── README.md
+│ ├── treatments.csv\
+│ └── billing.csv\
+│\
+├── sql/ \
+│ ├── create_tables.sql\
+│ ├── insert_data.sql\
+│ └── analysis_queries.sql\
+│\
+└── README.md\
 
 
 
